@@ -1,6 +1,6 @@
-Copy informations from one file (registry) to another (report)
-
 Sub report()
+'Copy informations from one file (registry) to another (report)
+    
 Application.ScreenUpdating = False
 
 Dim wb_report As Workbook, ws_report As Worksheet
