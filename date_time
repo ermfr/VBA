@@ -1,0 +1,14 @@
+Inser current date and time
+
+
+Sub Now()
+
+Dim data_range As String, time_range As String
+
+data_range = "C" & ActiveCell.row
+time_range = "D" & ActiveCell.row
+
+Range(data_range) = Date
+Range(time_range) = Time
+
+End Sub
