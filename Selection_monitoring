@@ -1,4 +1,4 @@
-Selection monitoring
+# Selection monitoring
 modifica il contenuto di una cella alternativamente quando questa viene selezionata
 Si applica al foglio / Selezionare dall'albero il foglio da monitorare, nella finestra del codice selezionare Worksheet / SelectionChange
 Nell'esempio viene monitorato l'intervallo: "E6:P100"
